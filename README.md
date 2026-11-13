@@ -41,7 +41,7 @@ LeetCode-40-Coding-Challenge/
 ```
 
 ## LeetCode Profile
-[View My LeetCode Profile](PASTE_YOUR_LEETCODE_PROFILE_URL_HERE)
+[View My LeetCode Profile](https://leetcode.com/u/Akshatha_bs/)
 
 ## Language
 Java
