@@ -1,0 +1,4 @@
+4. Longest Common Prefixx
+Language: Java
+Status: Accepted
+Submission Link: https://leetcode.com/problems/longest-common-prefix/submissions/2195412353
